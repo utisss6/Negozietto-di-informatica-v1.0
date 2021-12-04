@@ -4,8 +4,6 @@ Config.Posizione = {
     x = -1482.4139, y = -1335.81, z = 2.558
 }
 
-Config.NegoziettoDiElettronica = true
-Config.NegoziettiDiCibo = true
 --Menu
 Config.AlingMenu = 'top-right'
 Config.TitleMenu = 'Negozietto di elettronica'
